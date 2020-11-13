@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap');
+body{
+background-color:orange;
+}
+textarea {
+display:block;
+margin-left:auto;
+margin-right:auto;
+background-color:#00BFFF;
+border-width: 3px 5px 3px 5px;
+border-style: grove;
+border-color: #00BFFF#00BFFF#00BFFF#00BFFF;
+padding: 40px;
+<font face="Verdana"> Verdana </font> <br />
+}
+<h1><center>Enfermidades</center></h1>
+<center>Sinta-se em casa!</center>
+<p1>Aqui você aprenderá vários assuntos interessantes.</p1>
+
+
+
+
+
+
+
+}
+cartao  {
+  margin: 60%;
+  padding: 40px;
+  border: 4px solid blue;
+}
+
+
+
+
+
+.lista-menu {
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  grid-template-rows:30px;
+  margin-top: 10px;
+  font-size: 16px; @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
+  font-family: 'Roboto Mono', monospace;
+  line-height:40px;
+  border-radius: 5px;
+}
+
+.menu:hover {
+  background-color: lightgray;
+  border-radius: 5px;
+}
+
+.menu{
+  font-family: 'Sansita', cursive;
+  background-color: tomato;
+  border:1px  solid azure;
+  text-decoration: none;
+  text-align: center;
+  height: 30px;
+  line-height:30px;
+  border-radius: 5px;
+}
+
+.local {
+ font-family: 'Sansita', cursive;
+  background-color:orange;
+  border:1px  solid azure;
+  text-decoration: none;
+  text-align: center;
+  height: 30px;
+  line-height:30px;
+  border-radius: 5px;
+}
+p{
+  font-size:30px;
+}
+li{
+font-size:28px;
+}
+
+h1{
+font-family: 'Roboto Slab', serif;
+}
+h2{
+font-family: 'Roboto Slab', serif;
+}
+
+<img src=("https://www.freepik.com/redirect?url=aHR0cHM6Ly9jbGsudHJhZGVkb3VibGVyLmNvbS9jbGljaz9wPTMwNDYwOCZhPTMxNDQ0NTAmZz0yNDczNzQ3NCZlcGk9bm4mZXBpMj10ZXN0LWJhbm5lcmJpZ2dlci1iJnVybD1odHRwczovL3N0b2NrLmFkb2JlLmNvbS9pbWFnZXMvaWQvMzI4MjgzNjA0P2FzX2NhbXBhaWduPUZyZWVwaWsmYXNfY29udGVudD1hcGkmYXNfYXVkaWVuY2U9NDA0JmFzX2NhbXB0eXBlPXRlc3QtYmFubmVyYmlnZ2VyLWI=&client_id=GA1.2.1205745495.1605117645")>
